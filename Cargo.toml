@@ -13,7 +13,7 @@ resolver = "2"
 version = "0.1.0"
 edition = "2021"
 authors = ["Hierarch"]
-license = "UNLICENSED"
+license = "PolyForm-Noncommercial-1.0.0"
 
 [workspace.dependencies]
 anyhow = "1"
